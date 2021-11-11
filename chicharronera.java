@@ -30,8 +30,8 @@ public class chicharronera {
         x = ((-b) + Math.sqrt((b*b)-(4*a*c)))/(2*a);
         x_ = ((-b) - Math.sqrt((b*b)-(4*a*c)))/(2*a);
 
-        System.out.println("X1 = " + x);
-        System.out.println("X2 = " + x_);
+        System.out.println("x1 = " + x);
+        System.out.println("x2 = " + x_);
 
         System.out.println("===============================================================================");
     }
